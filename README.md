@@ -12,5 +12,4 @@ After installation you can find the component in the component palette under "Ad
 
 ## Licence:
 For the source code: Modified LGPL with static linking exception (same as LCL).
-I don't own any rights on the graphic of the running cheetah, 
-
+I'm not the author of the graphic of the running cheetah, please find out the licence on your own.
