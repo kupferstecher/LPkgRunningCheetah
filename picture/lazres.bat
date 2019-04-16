@@ -1,0 +1,1 @@
+C:\Programme\lazarus\tools\Lazres.exe RunningCheetah.lrs TRunningCheetah.png Background.bmp RunCheetah1.bmp RunCheetah2.bmp RunCheetah3.bmp  RunCheetah4.bmp RunCheetah5.bmp RunCheetah6.bmp RunCheetah7.bmp RunCheetah8.bmp
